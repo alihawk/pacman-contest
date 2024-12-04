@@ -6,13 +6,12 @@
 
 **Instructor:** _[name of your instructor]_
 
-**Team name:** _[replace this with team name in plan text]_
+**Team name:** _[TopiDrama]_
 
 **Team members:**
 
-* Student 1's Student number - Full Name - Student email - Student Github id
-* Student 2's Student number - Full Name - Student email - Student Github id
-* Student 3's Student number - Full Name - Student email - Student Github id
+* u255570 - Muhammad Ali - muhammad.ali01@estudiant.upf.edu -alihawk
+* u254330 - Ashir Raza - ashir.raza01@estudiant.upf.edu - AshirRaza
 
 Replace the lines above with the correct details of members. Delete or add lines as needed.
 
